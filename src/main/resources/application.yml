@@ -1,0 +1,15 @@
+server:
+  port: 8081
+dog:
+  name: "yao"
+  age: 23
+spring:
+  profiles:
+    active:
+  datasource:
+    driver-class-name:
+    username:
+    password:
+    url:
+    type: com.alibaba.druid.pool.DruidDataSource
+
