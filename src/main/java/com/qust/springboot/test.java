@@ -11,5 +11,6 @@ public class test {
         System.out.println("v4.0");
         System.out.println("v5.0");
         System.out.println("v6.0");
+        System.out.println("v7.0");
     }
 }
